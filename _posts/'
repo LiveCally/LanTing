@@ -1,7 +1,0 @@
----
-layout: default
-title: 人--兰亭集序第286个字的BBS (BBS of the 286th character in Lan Ting)
----
-<h1>人</h1>
-
-{% include BBS.html %}
